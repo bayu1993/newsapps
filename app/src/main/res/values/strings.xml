@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">news apps</string>
+    <string name="news_image">news image</string>
+    <string name="author">author</string>
+    <string name="news_title">Black Friday 2018: Hitting the Stores, and the Sites, on Thanksgiving</string>
+    <string name="sources">sources</string>
+    <string name="date">2008/02/02</string>
+    <string name="action_search">search article</string>
+</resources>
